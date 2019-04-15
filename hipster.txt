@@ -3,3 +3,8 @@ My Hipster file.
 Nova linha no aruqivo.
 Traking file.
 
+Mais uma linha para testar
+a edição de arquivos.
+
+hahaaaaa, mais uma alteração no arquivo.
+
