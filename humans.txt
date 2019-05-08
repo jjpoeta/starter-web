@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    João Azevedo Junior		joao.azevedo@cea.com.br		@twitter
 
 # THANKS
 
