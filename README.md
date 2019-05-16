@@ -25,4 +25,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyrigth
 
-2019 João Azevedo Junior
+2019 João Azevedo Junior. All rights reserved.
